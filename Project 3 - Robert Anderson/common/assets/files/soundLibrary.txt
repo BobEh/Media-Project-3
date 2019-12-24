@@ -1,0 +1,14 @@
+../common/assets/audio/people_talking.wav
+../common/assets/audio/door_close.wav
+../common/assets/audio/footsteps.wav
+../common/assets/audio/car_door.wav
+../common/assets/audio/car_driving.wav
+../common/assets/audio/police_siren.wav
+../common/assets/audio/frustrated.wav
+../common/assets/audio/footsteps_gravel.wav
+../common/assets/audio/knock_on_door.wav
+../common/assets/audio/car_window_down.wav
+../common/assets/audio/police_talking.wav
+../common/assets/audio/driver_talking.ogg
+../common/assets/audio/car_window_up.wav
+../common/assets/audio/car_start.wav
